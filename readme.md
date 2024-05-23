@@ -1,3 +1,9 @@
+### sub directories and many type of information attacks power full
+
+```bash
+ ffuf -w /usr/share/wordlists/dirb/small.txt  -u https://nitra.ac.in/FUZZ -mc all -fs 42 -c -v\n
+
+```
 ```bash
 ffuf -w /usr/share/wordlists/dirb/small.txt -u https://www.yahoo.com/FUZZ
 ```
